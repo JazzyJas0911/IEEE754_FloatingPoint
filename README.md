@@ -28,4 +28,4 @@ Expected output
    Number of floating point numbers between 0 and 1: 1065353216
    Proportion (# of 0~1) / (# of positive): 49.8039%
    iv. Floating point number distribution
-   The output file is ready. Execute "Python3 Assn11.py count.dat"
+   The output file is ready. Execute "Python3 Assn11.py count.dat" 
